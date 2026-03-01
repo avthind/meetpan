@@ -1,0 +1,4 @@
+# Env files (secrets stay local)
+.env
+.env.*
+!.env.example
